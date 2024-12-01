@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/My-IMDB-React-App/static/css/main.d4712dbf.css",
+    "main.js": "/My-IMDB-React-App/static/js/main.555fdffe.js",
+    "static/js/453.71e7d1e6.chunk.js": "/My-IMDB-React-App/static/js/453.71e7d1e6.chunk.js",
+    "static/media/logo.svg": "/My-IMDB-React-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/My-IMDB-React-App/index.html",
+    "main.d4712dbf.css.map": "/My-IMDB-React-App/static/css/main.d4712dbf.css.map",
+    "main.555fdffe.js.map": "/My-IMDB-React-App/static/js/main.555fdffe.js.map",
+    "453.71e7d1e6.chunk.js.map": "/My-IMDB-React-App/static/js/453.71e7d1e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4712dbf.css",
+    "static/js/main.555fdffe.js"
+  ]
+}
